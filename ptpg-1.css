@@ -1,0 +1,25 @@
+.hr {
+    background-color: violet;
+    height: 70px;
+    width: 100%;
+    position: relative;
+ }
+ .I1{
+     height: 50px;
+     width: 50px;
+     margin-left: 50px;
+     margin-top: 5px;
+     border-radius: 50px;
+     
+ }
+.c{
+    display: inline-block;
+    position: absolute;
+    padding: 10px;
+    color: rgb(58, 52, 241);
+    font-weight: bolder;
+    margin-top: 20px;
+    font-size: 20px;  
+    
+}
+
